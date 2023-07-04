@@ -4,12 +4,10 @@
   <artifactId>FirstMavenProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>FirstMavenProject</name>
-  <dependencies>
-  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-<dependency>
-    <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-java</artifactId>
-    <version>4.10.0</version>
-</dependency>
-  </dependencies>
+ 
+
+
+  
+
+  
 </project>

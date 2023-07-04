@@ -1,8 +1,8 @@
 package pkg2;
 
 public class Addition {
-int a=15;
-int b=10;
+int a=20;
+int b=30;
 
 
 	public static void main(String[] args) {
